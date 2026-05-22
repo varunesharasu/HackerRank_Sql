@@ -1,0 +1,5 @@
+Query the list of CITY names from STATION that do not start with vowels. Your result cannot contain duplicates.
+
+select distinct city from station
+WHERE
+city not like 'A%' AND city not like 'E%' and city not like 'I%' AND city not like 'O%' and city not like 'U%';
