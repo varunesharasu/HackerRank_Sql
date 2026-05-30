@@ -11,5 +11,3 @@ A collection of daily HackerRank SQL problem solutions covering basic, intermedi
 - Clean and optimized SQL queries
 - Query explanations and logic
 - Covers multiple SQL concepts and techniques
-
-## 📂 Repository Structure
