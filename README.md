@@ -13,16 +13,3 @@ A collection of daily HackerRank SQL problem solutions covering basic, intermedi
 - Covers multiple SQL concepts and techniques
 
 ## 📂 Repository Structure
-
-```bash
-/HackerRank_SQL
-│
-├── basic-select/
-├── advanced-select/
-├── aggregation/
-├── joins/
-├── subqueries/
-├── alternative-queries/
-├── advanced-queries/
-├── challenges/
-└── README.md
