@@ -2,7 +2,7 @@
 
 # HackerRank SQL Solutions
 
-A collection of daily HackerRank SQL problem solutions covering basic, intermediate, and advanced query challenges to improve SQL and database problem-solving skills.
+A collection of daily HackerRank SQL problem solutions covering basic, intermediate, and advanced query challenges to improve SQL and database problem-solving skill.
 
 ## 📌 Features
 
